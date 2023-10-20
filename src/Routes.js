@@ -1,3 +1,3 @@
-1<route exact path="/login">
+<route exact path="/login">
   <login />
 </route>
